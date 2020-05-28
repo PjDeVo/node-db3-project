@@ -33,4 +33,5 @@ module.exports = {
   findSteps,
   add,
   update,
+  remove,
 };
